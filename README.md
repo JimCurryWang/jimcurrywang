@@ -1,4 +1,4 @@
-<h3>---- Hi there,</h3>
+
 <h1>I am ChenYu.
 <br>A data scientist / engineer based in Netherland.
 </br>
