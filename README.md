@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3>Hi there,</h3>
+<h1>I am ChenYu.
+<br>A data scientist / engineer based in Netherland.
+</br>
+</h1>
 
 <!--
 **JimCurryWang/jimcurrywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
